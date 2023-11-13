@@ -1,7 +1,7 @@
 # Weather-App
 
 
-This weather app is made by Jawed Nasim & Ahmad Shaad Zaki, with most of codes are written by Jawed Nasim itself, and the App testing is done by Ahmad Shaad Zaki. 
+This weather app is made by Jawed Nasim & Ahmad Shaad Zaki, with codes are written by Jawed Nasim itself, and the App testing is done by Ahmad Shaad Zaki. 
 
 This weather app shows the weather of your city, also we're working on this for the future updates.
 
