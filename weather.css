@@ -1,0 +1,18 @@
+#btn-temp{
+    background-color:rgb(0, 132, 255);
+    color: rgb(233, 221, 221);
+}
+#humidity-header, #temp-header{
+    background-color: rgb(0, 132, 255);
+    /* border: 2px solid rgb(0, 132, 255); */
+    color: white;
+}
+#humidity-card, #temp-card{
+    border:1px solid rgb(0, 132, 255); 
+    height: 350px;
+}
+#wind-card {
+    height: 290px;
+    
+    
+}
