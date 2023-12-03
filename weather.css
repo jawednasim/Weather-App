@@ -51,3 +51,32 @@ ul li{
     margin: 10px;
 }
 
+/* footer section  */
+
+.footer {
+    display: flex;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:rgb(217, 230, 217);
+    color: black;
+    /* text-align: center; */
+ }
+ .footer #p1{
+    
+    color: black;
+ }
+ .footer p {
+    padding: 5px 10px;
+ }
+
+#p2{
+    color: black;
+   padding-left: 1100px;
+}
+#p3{
+    color: black;
+   padding-left: 10px;
+   font-weight: bold;
+}
