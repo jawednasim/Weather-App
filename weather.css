@@ -1,3 +1,11 @@
+*{
+    color: #fff;
+    
+}
+body{
+    background-color: rgb(14, 73, 73) !important;
+}
+
 #btn-temp{
     background-color:rgb(0, 132, 255);
     color: rgb(233, 221, 221);
@@ -13,6 +21,33 @@
 }
 #wind-card {
     height: 290px;
+    background-image: url('https://images.unsplash.com/photo-1533985062386-ef0837f31bc0?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
     
     
 }
+#temp-card{
+    background-image: url('https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?q=80&w=1665&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' );
+    opacity: 20px;
+    
+}
+#humidity-card{
+    background-image: url('https://images.unsplash.com/photo-1536244636800-a3f74db0f3cf?q=80&w=1692&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    
+   
+}
+.kmhr{
+    color: #ececec;
+   
+}
+
+ul li{
+    margin: 20px;
+    padding: 0px ;
+    
+}
+#ul-order-01, #ul-order-02, #ul-order-03{
+    text-align: left;
+    padding: 0px;
+    margin: 10px;
+}
+
